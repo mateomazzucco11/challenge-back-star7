@@ -10,11 +10,6 @@ DB_PASSWORD
 NODE_PORT
   
 ```
-<h2>Estructura de base de datos</h2>
-  <h4>NOMBRE DE BASE DE DATOS: clients</h4>
-  <img src='' />
-  
-
   <h2>Instalación</h2>
   
   ```bash
