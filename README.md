@@ -30,7 +30,7 @@ NODE_PORT
   
   ```
   
-  <h2>Inicialización de los clientes </h2>
+  <h2>Inicialización</h2>
   
   ```bash
   npm start
