@@ -1,4 +1,4 @@
-<h2>Variables de Entorno para Server<h2>
+<h2>Variables de Entorno para .env<h2>
   
 ```bash
  
